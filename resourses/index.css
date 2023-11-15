@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    
+    margin: 4rem;
+}
+
+header h1 {
+    font-size: 4rem;
+    padding: 1rem;
+}
+
+section {
+    border: 1px solid black;
+    margin: 4rem;
+    padding: 1rem;
+}
+
+section h2 {
+    font-size: 3rem;
+}
+
+
+
+
+/* FONTS */
+
+.fonts {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.fonts h3 {
+    font-size: 5rem;
+    border: 1px solid black;
+    height: 100px;
+    vertical-align: middle;
+}
+
+.fonts p {
+    font-size: 1.5rem;
+}
+
+.font-1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.font-2 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.font-2 h3 {
+    
+}
+
+.font-3 {
+    font-family: 'Vina Sans', sans-serif;
+}
